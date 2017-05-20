@@ -2,5 +2,36 @@
 @import "semantic";
 
 body {
-    background: cornflowerblue;
+    background: #1ca9e2;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:white;
+    text-align: center;
+}
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-transform: uppercase;
+    font-size: 150px;
+    margin-bottom:-10px;
+    line-height: 93%;
+    padding-top: 100px;
+    
+}
+.click {
+    color: #af151d;
+    font-style: italic;
+    padding: 1em;
+}
+a {
+    color:white;
+    font-size: 45px;
+    
+}
+a:hover {
+    color: #293b69;
+    
+}
+
+p {
+    padding: 3em;
+    font-size: 25px;
 }
