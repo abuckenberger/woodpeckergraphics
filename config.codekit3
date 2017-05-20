@@ -93,6 +93,91 @@
 		"oAP": "\/docs\/html\/scripts.html",
 		"oF": 0
 		},
+	"\/img\/favicons\/android-chrome-96x96.png": {
+		"ft": 32768,
+		"iS": 13784,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/android-chrome-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 9109,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/img\/favicons\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/img\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1168,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 2322,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/img\/favicons\/favicon.ico",
+		"oF": 0
+		},
+	"\/img\/favicons\/manifest.json": {
+		"ft": 524288,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/manifest.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/img\/favicons\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 15923,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/docs\/img\/favicons\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/logoblue.jpg": {
 		"ft": 16384,
 		"iS": 20081,
@@ -100,7 +185,7 @@
 		"oAP": "\/docs\/img\/logoblue.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/logoblue.png": {
@@ -110,7 +195,7 @@
 		"oAP": "\/docs\/img\/logoblue.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -130,6 +215,15 @@
 		"oA": 0,
 		"oAP": "\/docs\/index.html",
 		"oF": 0
+		},
+	"\/js\/airtable.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/docs\/js\/airtable.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
 		},
 	"\/js\/jquery.js": {
 		"ft": 64,
@@ -176,7 +270,7 @@
 	"displayValue": "woodpeckergraphics",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 517002647
+	"lastBuiltDate": 517003604
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
