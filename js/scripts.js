@@ -26,7 +26,7 @@ base('Products').select({
     records.forEach(function(record) {
         console.log('Retrieved', record.get('Product'));
         
-        var products = `<a href="https://airtable.com/shrvX80fabWt0v5Fq">${record.get('Product')}</a>`
+        var products = `<a href="https://airtable.com/shrsiQhPO5B86zfxE">${record.get('Product')}</a>`
         var options = `<p>${record.get('Options')}</p>`
         
         //console.log(options);
