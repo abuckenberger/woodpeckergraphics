@@ -16,6 +16,9 @@ h1 {
     padding-top: 100px;
     
 }
+h2 {
+    padding-bottom: 25px;
+}
 .click {
     color: #af151d;
     font-style: italic;
@@ -34,4 +37,15 @@ a:hover {
 p {
     padding: 3em;
     font-size: 25px;
+}
+
+button {
+    border-radius: 15px;
+    box-shadow: none;
+    background: #fff;
+}
+button a {
+    color: #1ca9e2;
+    font-size: 40px;
+    padding: .75em;
 }
