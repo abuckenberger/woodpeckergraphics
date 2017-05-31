@@ -10443,11 +10443,11 @@ base('Products').select({
         console.log('Retrieved', record.get('Product'));
         
         var products = `<a href="https://airtable.com/shrsiQhPO5B86zfxE">${record.get('Product')}</a>`
-        var options = `<p>${record.get('Options')}</p>`
+        var list = `<p>${record.get('List')}</p>`
         
-        //console.log(options);
+        //console.log(list);
         
-        $('#products').append(products, options);
+        $('#products').append(products, list);
     });
 
     // To fetch the next page of records, call `fetchNextPage`.
